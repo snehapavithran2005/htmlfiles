@@ -1,0 +1,13 @@
+div
+{
+    background-color: bisque;
+    width: 20%;
+     height: 20%; 
+   float: left;
+   border: 2px black solid;
+margin: 10px;
+   padding: 20px;
+}
+img{
+    width: 100%;
+}
